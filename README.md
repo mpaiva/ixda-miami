@@ -36,7 +36,7 @@ Thanks Chris!
 
 [Google Material Sketch template](https://www.google.com/design/spec/resources/sticker-sheets-icons.html#) - The sticker sheets contain the latest refinements to the components, integrated into a comprehensive sticker sheet that is easier to use.
 
-[Material Sketch Template Plus](#) - ProcessMAP's UX team version of Google's sticker sheet, including Icons and Color Palettes.
+[Material Sketch Template Plus](src/sketch/pmap-ux/) - ProcessMAP's UX team version of Google's sticker sheet, including Icons and Color Palettes.
 
 [Roboto & Noko fonts](https://www.google.com/design/spec/resources/roboto-noto-fonts.html) - The latest version of Roboto is designed for both mobile and web usage.
 
