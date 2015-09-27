@@ -8,9 +8,7 @@ Members: clone it, download, make it better and share back to our community.
 
 ----
 
-## Upcoming Events
-
-### Prototyping with Sketch and Principle apps
+## Prototyping with Sketch and Principle apps
 Presented on Sep 28, 2015 by Marcelo Paiva - [@muqueca](https://twitter.com/muqueca)
 
 ### Source Files
@@ -20,6 +18,8 @@ Slides: [keynote](#) | [pdf](#)
 Principle Files: [link](#)
 
 Sketch Files: [link](#)
+
+----
 
 ### Resources
 
