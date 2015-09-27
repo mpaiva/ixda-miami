@@ -24,7 +24,7 @@ Sketch Files: [link](#)
 ### Resources
 
 #### Visual Design Inspiration
-Material Photo Gallery by [Christophe Kerebel](https://dribbble.com/shots/2261972-Material-Photo-Gallery-Principle)
+Material Photo Gallery by [Christophe Kerebel](https://dribbble.com/shots/2261972-Material-Photo-Gallery-Principle) - Chris is a dedicated designer from Paris and has graciously given the permission to use his materials to help supporting the UX community in South Florida.
 
 #### Sketch Plugins
 
