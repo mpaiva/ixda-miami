@@ -34,7 +34,7 @@ Thanks Chris!
 
 ### Links Mentioned
 
-[Principle](principleformac.com) - Principle makes it easy to create animated and interactive user interface designs. Whether you're designing the flow of a multi-screen app, or new interactions and animations, Principle lets you create designs that look and feel amazing.
+[Principle](http://principleformac.com) - Principle makes it easy to create animated and interactive user interface designs. Whether you're designing the flow of a multi-screen app, or new interactions and animations, Principle lets you create designs that look and feel amazing.
 
 [Sketch App](http://bohemiancoding.com/sketch/) - Professional digital design for Mac. Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
 
