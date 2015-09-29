@@ -13,11 +13,11 @@ Presented on Sep 28, 2015 by Marcelo Paiva - [@muqueca](https://twitter.com/muqu
 
 ### Source Files
 
-Slides: [keynote](#) | [pdf](#)
+Presentation: [pdf](https://github.com/mpaiva/ixda-miami/blob/master/keynote/presentation.pdf)
 
-Principle Files: [link](#)
+Principle Files: [link](https://github.com/mpaiva/ixda-miami/tree/master/src/principle)
 
-Sketch Files: [link](#)
+Sketch Files: [link](https://github.com/mpaiva/ixda-miami/tree/master/src/sketch)
 
 ----
 
